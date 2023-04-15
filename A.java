@@ -16,11 +16,4 @@ class  A3
 		System.out.println("Hello World!");
 	}
 }
-class  A4
-{       public static void main(String[] args)
-        {
-                System.out.println("Hello World!");
-        }
-}
-
 //END
